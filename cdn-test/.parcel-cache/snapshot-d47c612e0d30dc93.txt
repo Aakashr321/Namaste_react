@@ -1,8 +1,8 @@
-4340
+4342
 63E:\React Practise\Namaste_react\cdn-test\node_modules\env-paths133881236488091331 1
-53E:\React Practise\Namaste_react\cdn-test\package.json133881244607570959 0
+53E:\React Practise\Namaste_react\cdn-test\package.json133881402983039920 0
 104E:\React Practise\Namaste_react\cdn-test\node_modules\caniuse-lite\data\features\prefers-color-scheme.js133881236504097789 0
-45E:\React Practise\Namaste_react\cdn-test\dist133881245194643921 1
+45E:\React Practise\Namaste_react\cdn-test\dist133881402991422199 1
 129E:\React Practise\Namaste_react\cdn-test\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133881236494621844 0
 80E:\React Practise\Namaste_react\cdn-test\node_modules\caniuse-lite\data\features133881236506616155 1
 81E:\React Practise\Namaste_react\cdn-test\node_modules\cosmiconfig\dist\index.d.ts133881236493514362 0
@@ -16,7 +16,7 @@
 69E:\React Practise\Namaste_react\cdn-test\node_modules\posthtml-render133881236488275996 1
 108E:\React Practise\Namaste_react\cdn-test\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl-sparse.c133881236494152618 0
 66E:\React Practise\Namaste_react\cdn-test\node_modules\htmlnano\lib133881236494926883 1
-51E:\React Practise\Namaste_react\cdn-test\.gitignore133881234716145338 0
+51E:\React Practise\Namaste_react\cdn-test\.gitignore133881385685030926 0
 92E:\React Practise\Namaste_react\cdn-test\node_modules\utility-types\dist\mapped-types.js.map133881236490047729 0
 47E:\React Practise\Namaste_react\cdn-test\App.js133881245194316780 0
 70E:\React Practise\Namaste_react\cdn-test\node_modules\dotenv\README.md133881236489841882 0
@@ -38,7 +38,7 @@
 103E:\React Practise\Namaste_react\cdn-test\node_modules\@swc\helpers\src\_check_private_redeclaration.mjs133881236499947032 0
 59E:\React Practise\Namaste_react\cdn-test\node_modules\json5133881236490597958 1
 81E:\React Practise\Namaste_react\cdn-test\node_modules\entities\lib\index.d.ts.map133881236493544301 0
-50E:\React Practise\Namaste_react\cdn-test\README.md133881244882556156 0
+50E:\React Practise\Namaste_react\cdn-test\README.md133881371673019808 0
 72E:\React Practise\Namaste_react\cdn-test\node_modules\picomatch\index.js133881236487501397 0
 93E:\React Practise\Namaste_react\cdn-test\node_modules\htmlparser2\lib\esm\WritableStream.d.ts133881236492851644 0
 61E:\React Practise\Namaste_react\cdn-test\node_modules\is-glob133881236487678821 1
@@ -4335,7 +4335,9 @@
 65E:\React Practise\Namaste_react\cdn-test\node_modules\.bin\semver133881236856048348 0
 69E:\React Practise\Namaste_react\cdn-test\node_modules\.bin\semver.ps1133881236856048348 0
 85E:\React Practise\Namaste_react\cdn-test\node_modules\.bin\update-browserslist-db.ps1133881236856048348 0
-66E:\React Practise\Namaste_react\cdn-test\dist\cdn-test.cb65f72e.js133881245194502328 0
+66E:\React Practise\Namaste_react\cdn-test\dist\cdn-test.22be0b5c.js133881357856114776 0
+70E:\React Practise\Namaste_react\cdn-test\dist\cdn-test.22be0b5c.js.map133881357856249950 0
+66E:\React Practise\Namaste_react\cdn-test\dist\cdn-test.cb65f72e.js133881402991240756 0
 73E:\React Practise\Namaste_react\cdn-test\dist\cdn-test.cb65f72e.js.1344.a133881239933770663 0
-70E:\React Practise\Namaste_react\cdn-test\dist\cdn-test.cb65f72e.js.map133881245194628991 0
-56E:\React Practise\Namaste_react\cdn-test\dist\index.html133881240123045523 0
+70E:\React Practise\Namaste_react\cdn-test\dist\cdn-test.cb65f72e.js.map133881402991402196 0
+56E:\React Practise\Namaste_react\cdn-test\dist\index.html133881402990825499 0
