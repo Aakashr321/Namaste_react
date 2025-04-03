@@ -1,6 +1,6 @@
 4342
 63E:\React Practise\Namaste_react\cdn-test\node_modules\env-paths133881236488091331 1
-53E:\React Practise\Namaste_react\cdn-test\package.json133881402983039920 0
+53E:\React Practise\Namaste_react\cdn-test\package.json133881456229455770 0
 104E:\React Practise\Namaste_react\cdn-test\node_modules\caniuse-lite\data\features\prefers-color-scheme.js133881236504097789 0
 45E:\React Practise\Namaste_react\cdn-test\dist133881402991422199 1
 129E:\React Practise\Namaste_react\cdn-test\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133881236494621844 0

@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-const header = React.createElement("h1", {}, "Hello World first second 🚀");
+const heading = <h1>Hello world from react! 🚀</h1>;
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-root.render(header);
+root.render(heading);
