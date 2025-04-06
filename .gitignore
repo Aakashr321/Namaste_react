@@ -1,3 +1,6 @@
 /node_modules
 node_modules
 .parcel-cache
+dist
+cdn-test/.parcel-cache
+cdn-test/dist
