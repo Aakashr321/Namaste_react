@@ -1,0 +1,22 @@
+{
+  "name": "swiggy",
+  "version": "1.0.0",
+  "description": "This is a food delivery app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "food"
+  ],
+  "author": "Aakash",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
